@@ -1,6 +1,6 @@
 # NimRekey
 <p align="center">
-    <img width="200" src="https://github.com/OffenseTeacher/NimRekey/blob/main/NimRekey.gif">
+    <img width="500" src="https://github.com/OffenseTeacher/NimRekey/blob/main/NimRekey.gif">
 </p>
 An experiment in improving existing anti-copy techniques. This one allows a binary to rewrite itself on disk after the first execution with a new key and encrypted secrets (like shellcode, URLs, etc).
 Part of the key is stored in ADS, preventing the execution after copy on any other system.
