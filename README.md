@@ -1,6 +1,8 @@
 # NimRekey
 
-My experiments in improving existing anti-copy techniques
+An experiment in improving existing anti-copy techniques. This one allows a binary to rewrite itself on disk after the first execution with a new key and encrypted secrets (like shellcode, URLs, etc).
+Part of the key is stored in ADS, preventing the execution after copy on any other system.
+For more information regarding Offensive developpment, see: [OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim)
 
 ## How to use
 - Install Nim on Linux
