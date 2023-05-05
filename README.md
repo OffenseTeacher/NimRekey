@@ -2,7 +2,7 @@
 
 My experiments in improving existing anti-copy techniques
 
-##How to use
+## How to use
 - Install Nim on Linux
 - Clone this repo
 - Change values if desired, then compile Encrypt.nim
