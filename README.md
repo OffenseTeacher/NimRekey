@@ -14,5 +14,5 @@ For more information regarding Offensive developpment, see: [OffensiveNim](https
 - Execute it on arbitrary systems
 
 ## How to cross-compile from Linux to Windows
-- "nim c -d=mingw -d=release --app=console --cpu=amd64 Encrypt.nim"
-- "nim c -d=mingw -d=release --app=console --cpu=amd64 NimRekey.nim"
+- nim c -d=mingw -d=release --app=console --cpu=amd64 Encrypt.nim
+- nim c -d=mingw -d=release --app=console --cpu=amd64 NimRekey.nim
